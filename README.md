@@ -13,4 +13,14 @@ The training and evaluation scripts can be found in [REBM.ipynb](REBM.ipynb).
   booktitle={International Conference on Learning Representations},
   year={2019}
 }
+
+@article{bakhtin2021residual,
+  title={Residual Energy-Based Models for Text},
+  author={Bakhtin, Anton and Deng, Yuntian and Gross, Sam and Ott, Myle and Ranzato, Marc'Aurelio and Szlam, Arthur},
+  journal={Journal of Machine Learning Research},
+  volume={22},
+  number={40},
+  pages={1--41},
+  year={2021}
+}
 ```
